@@ -14,7 +14,12 @@ python print("Hello world")
 x=2+3
 ```
 
+### Lists
+- Turn on GitHub Pages
+- Outline my portfolio
+- Introduce myself to the world
+
 ## References
-- [Github documentation](https://docs.github.com/en)
-- [Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
-- [Git documentation](https://git-scm.com/doc)
+1. [Github documentation](https://docs.github.com/en)
+2. [Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
+3. [Git documentation](https://git-scm.com/doc)
