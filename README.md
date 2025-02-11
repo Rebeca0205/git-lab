@@ -8,6 +8,8 @@ Rebeca Davila Araiza
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, 
 of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
+![juegos roguelite](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/04/roguelike-vs-roguelite.jpeg)
+
 ### Code Examples
 ```python
 python print("Hello world")
