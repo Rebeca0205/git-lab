@@ -1,8 +1,7 @@
 # git-lab and github laboratory
-
+## Description
 Git practice laboratory
 Rebeca Davila Araiza
-## Description
 ## Contents
 ### Images
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, 
